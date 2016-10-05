@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<p align="center">
-  <img src="https://i.gyazo.com/900f3b10091aa336871f3dd2854934c6.png " alt="SAMUDRA"/>
-</p>
+
 <p align="center">
   <img src="https://i.gyazo.com/5a8ad4b025a3ee727ece6866e9e3310c.png  " alt="SAMUDRA"/>
 </p>
@@ -57,6 +54,3 @@ Click on the image to view in a better resolution
   <img src="http://i.imgur.com/Sg4Bjkg.jpg" alt="SAMUDRA"/>
 </p>
 =======
-# Aitauv
-This is the Git Repository of Embedded &amp; control System for SAMUDRA. SAMUDRA abbreviated as SYSTEM OF AUTONOMOUS MARINE UNDERWATER DETECTION RESEARCH &amp; ACTIVITIES is an Autonomous Underwater Vehicle (AUV) developed by a team of undergraduate students from AIACTR (formerly Ambedkar Institute of Technology) to compete in the AUVSI. SAMUDRA is based on the principle low cost and high efficiency. The Team consists of Simulation,PCB Designing &amp; Mechanical Image Processing Embedded and Control System Operating System and GUI Public Relations
->>>>>>> 283da9caebcc91522a5e47d45b38b4af577f4be7
